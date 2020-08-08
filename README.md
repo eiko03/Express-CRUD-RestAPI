@@ -1,6 +1,5 @@
 # Express Restful API
 
-> Files for the YouTube crash course
 
 - Handlebar
 - Express Router
