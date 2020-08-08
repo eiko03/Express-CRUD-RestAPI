@@ -1,10 +1,11 @@
 # Express Restful API
 
+## Used Technology
 
 - Express Router
-- Static Files
 - Middleware
 - Nodemon
+- Moment
 
 ## Swtup Dependencies
 
