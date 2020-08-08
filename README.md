@@ -1,19 +1,17 @@
-# Express Crash Course
+# Express Restful API
 
 > Files for the YouTube crash course
 
-- Setup & Install / Simple Server
-- Simple API
-- Routes, Request & Response
+- Handlebar
 - Express Router
 - Static Files
 - Template Engine Setup With Views
 - Middleware
 - Nodemon
 
-## Quick Start
+## To Run
 
-```bash
+```
 # Install dependencies
 npm install
 
