@@ -7,7 +7,7 @@
 - Nodemon
 - Moment
 
-## Swtup Dependencies
+## Setup Dependencies
 
 ```
 npm install
